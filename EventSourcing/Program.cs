@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System.Runtime.CompilerServices;
-
-Console.WriteLine("Event Sourcing");
+﻿Console.WriteLine("Event Sourcing");
 
 var bankAccount = BankAccount.Open("John Doe", 1000);
 
